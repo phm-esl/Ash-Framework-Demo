@@ -119,3 +119,11 @@ Apply the work-around, and try again:
        $PWD/deps/picosat_elixir/priv/picosat_nif.o \
        $PWD/deps/picosat_elixir/priv/picosat.o \
        -o $PWD/_build/dev/lib/picosat_elixir/priv/picosat_nif.so
+
+
+[Fix for picosat NIF build](https://github.com/bitwalker/picosat_elixir/issues/8#issuecomment-1341046287)
+
+# Bookmark
+
+[Ash, Adding relationships](https://ash-hq.org/docs/guides/ash/latest/tutorials/get-started#adding-relationships)
+
